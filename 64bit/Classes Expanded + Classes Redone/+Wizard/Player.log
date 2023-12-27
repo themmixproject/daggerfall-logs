@@ -1,0 +1,2591 @@
+Mono path[0] = 'C:/Users/{User}/Documents/Projects/Daggerfall Unity/0.16.2/64bit/DaggerfallUnity_Data/Managed'
+Mono config path = 'C:/Users/Steven de Valk/Documents/HeRrE cOmE tHe CrImSoN cHiN/Projects/Daggerfall Unity/0.16.2/64bit/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.40f1 (ffc62b691db5)
+[Subsystems] Discovering subsystems at path C:/Users/Steven de Valk/Documents/HeRrE cOmE tHe CrImSoN cHiN/Projects/Daggerfall Unity/0.16.2/64bit/DaggerfallUnity_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     1979 MB
+    Driver:   25.21.14.1972
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.112 seconds
+WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.644000 ms
+Using 'settings.ini' at path 'C:/Users/Steven de Valk/AppData/LocalLow/Daggerfall Workshop/Daggerfall Unity\settings.ini' 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Found valid arena2 path at 'C:\Users\Steven de Valk\Documents\HeRrE cOmE tHe CrImSoN cHiN\Projects\Daggerfall Unity\0.16.2\64bit\DaggerfallGameFiles\arena2'. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: PersistentDataPath | C:/Users/Steven de Valk/AppData/LocalLow/Daggerfall Workshop/Daggerfall Unity 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DistributionSuffix |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MyDaggerfallPath | C:\Users\Steven de Valk\Documents\HeRrE cOmE tHe CrImSoN cHiN\Projects\Daggerfall Unity\0.16.2\64bit\DaggerfallGameFiles 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MyDaggerfallUnitySavePath |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MyDaggerfallUnityScreenshotsPath |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ResolutionWidth | 1920 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ResolutionHeight | 1080 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: RetroRenderingMode | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: PostProcessingInRetroMode | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: UseMipMapsInRetroMode | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: RetroModeAspectCorrection | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: PalettizationLUTShift | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VSync | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TargetFrameRate | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Fullscreen | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ExclusiveFullscreen | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: FieldOfView | 65 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ShadowResolutionMode | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MainFilterMode | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: QualityLevel | 5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DungeonLightShadows | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InteriorLightShadows | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ExteriorLightShadows | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientLitInteriors | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MobileNPCShadows | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: GeneralBillboardShadows | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: NatureBillboardShadows | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DungeonShadowDistance | 20 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InteriorShadowDistance | 30 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ExteriorShadowDistance | 90 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableTextureArrays | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: RandomDungeonTextures | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CursorWidth | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CursorHeight | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AntialiasingMethod | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AntialiasingFXAAFastMode | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AntialiasingSMAAQuality | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AntialiasingTAASharpness | 0.3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientOcclusionEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientOcclusionMethod | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientOcclusionIntensity | 1.2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientOcclusionThickness | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientOcclusionRadius | 0.4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientOcclusionQuality | 2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BloomEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BloomIntensity | 5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BloomThreshold | 0.7 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BloomDiffusion | 6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BloomFastMode | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MotionBlurEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MotionBlurShutterAngle | 270 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MotionBlurSampleCount | 8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VignetteEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VignetteIntensity | 0.6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VignetteSmoothness | 0.3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VignetteRoundness | 0.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VignetteRounded | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DepthOfFieldEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DepthOfFieldFocusDistance | 3.8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DepthOfFieldAperture | 5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DepthOfFieldFocalLength | 50 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DepthOfFieldMaxBlurSize | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DitherEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostRadius | 25 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostIntensity | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostDungeonScale | 1.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostExteriorScale | 0.2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostInteriorScale | 0.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostDungeonFalloff | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SoundFont |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AlternateMusic | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: PlayerNudity | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ShowOptionsAtStart | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: GUIFilterMode | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VideoFilterMode | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Crosshair | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InteractionModeIcon | classic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SwapHealthAndFatigueColors | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DimAlphaStrength | 0.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableToolTips | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ToolTipDelayInSeconds | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ToolTipBackgroundColor | RGBA(64, 64, 64, 210) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ToolTipTextColor | RGBA(230, 230, 200, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ShopQualityPresentation | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ShopQualityHUDDelay | 4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ShowQuestJournalClocksAsCountdown | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableInventoryInfoPanel | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableEnhancedItemLists | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableModernConversationStyleInTalkWindow | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: IconsPositioningScheme | Classic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: HelmAndShieldMaterialDisplay | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AccelerateUICopyTexture | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableVitalsIndicators | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SDFFontRendering | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableGeographicBackgrounds | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableArrowCounter | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DungeonExitWagonPrompt | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TravelMapLocationsOutline | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: IllegalRestWarning | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LargeHUD | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LargeHUDDocked | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LargeHUDUndockedScale | 0.75 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LargeHUDUndockedAlignment | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LargeHUDUndockedOffsetWeapon | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LargeHUDOffsetHorse | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CanDropQuestItems | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: RunInBackground | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableQuestDebugger | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: QuestRumorWeight | 50 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DisableEnemyDeathAlert | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: HideLoginName | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableSpellLighting | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableSpellShadows | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InvertMouseVertical | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MouseLookSmoothingFactor | 0.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MouseLookSensitivity | 2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: JoystickLookSensitivity | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: JoystickCursorSensitivity | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: JoystickMovementThreshold | 0.9 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: JoystickDeadzone | 0.1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableController | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: HeadBobbing | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Handedness | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: WeaponAttackThreshold | 0.005 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MovementAcceleration | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ToggleSneak | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: WeaponSwingMode | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CameraRecoilStrength | 3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MusicVolume | 0.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SoundVolume | 0.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InstantRepairs | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AllowMagicRepairs | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BowDrawback | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapNumberOfDungeons | 5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapDisableMicroMap | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapRememberSliceLevel | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapAlwaysMaxOutSliceLevel | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ExteriorMapDefaultZoomLevel | 8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ExteriorMapResetZoomLevelOnNewLocation | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapTempleColor | RGBA(69, 125, 195, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapShopColor | RGBA(190, 85, 24, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapTavernColor | RGBA(85, 117, 48, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapHouseColor | RGBA(69, 60, 40, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DungeonMicMapQoL | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DunMicMapInnerColor | RGBA(212, 135, 208, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DunMicMapBorderColor | RGBA(250, 180, 3, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: StartCellX | 109 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: StartCellY | 158 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: StartInDungeon | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TerrainDistance | 3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TerrainHeightmapPixelError | 5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SmallerDungeons | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AssetCacheThreshold | 25 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LypyL_GameConsole | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LypyL_ModSystem | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AssetInjection | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CompressModdedTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: NearDeathWarning | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AlternateRandomEnemySelection | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AdvancedClimbing | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DungeonAmbientLightScale | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: NightAmbientLightScale | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: PlayerTorchLightScale | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: PlayerTorchFromItems | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CombatVoices | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnemyInfighting | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnhancedCombatAI | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: GuildQuestListBox | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BowLeftHandWithSwitching | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LoiterLimitInHours | 3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CommandLine | "C:\Users\Steven de Valk\Documents\HeRrE cOmE tHe CrImSoN cHiN\Projects\Daggerfall Unity\0.16.2\64bit\DaggerfallUnity.exe" 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CurrentDirectory | C:\Users\Steven de Valk\Documents\HeRrE cOmE tHe CrImSoN cHiN\Projects\Daggerfall Unity\0.16.2\64bit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CurrentManagedThreadId | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ExitCode | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: HasShutdownStarted | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: NewLine | 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: OSVersion | Microsoft Windows NT 10.0.19045.0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SystemDirectory | C:\Windows\system32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TickCount | 408561484 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: UserInteractive | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Version | 4.0.30319.42000 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: WorkingSet | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Is64BitOperatingSystem | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SystemPageSize | 4096 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Is64BitProcess | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ProcessorCount | 8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InvariantCulture |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CurrentCulture | en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CurrentUICulture | en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CultureTypes | AllCultures 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: IetfLanguageTag | en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: KeyboardLayoutId | 2057 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LCID | 2057 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Name | en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: NativeName | English (United Kingdom) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Calendar | System.Globalization.GregorianCalendar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: OptionalCalendars | System.Globalization.Calendar[] 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Parent | en 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TextInfo | TextInfo - en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ThreeLetterISOLanguageName | eng 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ThreeLetterWindowsLanguageName | ENG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TwoLetterISOLanguageName | en 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: UseUserOverride | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CompareInfo | CompareInfo - en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: IsNeutralCulture | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: NumberFormat | System.Globalization.NumberFormatInfo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DateTimeFormat | System.Globalization.DateTimeFormatInfo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DisplayName | English (United Kingdom) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnglishName | English (United Kingdom) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InstalledUICulture | en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: IsReadOnly | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DefaultThreadCurrentCulture |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DefaultThreadCurrentUICulture |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: batteryLevel | 0.96 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: batteryStatus | Charging 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: operatingSystem | Windows 10  (10.0.19045) 64bit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: operatingSystemFamily | Windows 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: processorType | Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: processorFrequency | 2808 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: processorCount | 8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: systemMemorySize | 16304 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: deviceModel | GP62M 7RDX (Micro-Star International Co., Ltd.) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsAccelerometer | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsGyroscope | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsLocationService | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsVibration | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsAudio | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: deviceType | Desktop 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsMemorySize | 1979 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsDeviceName | NVIDIA GeForce GTX 1050 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsDeviceVendor | NVIDIA 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsDeviceID | 7309 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsDeviceVendorID | 4318 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsDeviceType | Direct3D11 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsUVStartsAtTop | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsDeviceVersion | Direct3D 11.0 [level 11.1] 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsShaderLevel | 50 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsMultiThreaded | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: renderingThreadingMode | MultiThreaded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: hasHiddenSurfaceRemovalOnGPU | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: hasDynamicUniformArrayIndexingInFragmentShaders | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsShadows | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsRawShadowDepthSampling | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsRenderTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsMotionVectors | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsRenderToCubemap | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsImageEffects | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supports3DTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supports2DArrayTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supports3DRenderTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsCubemapArrayTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: copyTextureSupport | Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsComputeShaders | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsGeometryShaders | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsTessellationShaders | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsInstancing | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsHardwareQuadTopology | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supports32bitsIndexBuffer | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsSparseTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportedRenderTargetCount | 8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsSeparatedRenderTargetsBlend | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportedRandomWriteTargetCount | 8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsMultisampledTextures | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsMultisampleAutoResolve | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsTextureWrapMirrorOnce | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: usesReversedZBuffer | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsStencil | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: npotSupport | Full 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxTextureSize | 16384 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxCubemapSize | 16384 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeBufferInputsVertex | 128 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeBufferInputsFragment | 128 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeBufferInputsGeometry | 128 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeBufferInputsDomain | 128 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeBufferInputsHull | 128 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeBufferInputsCompute | 32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeWorkGroupSize | 1024 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeWorkGroupSizeX | 1024 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeWorkGroupSizeY | 1024 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeWorkGroupSizeZ | 64 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsAsyncCompute | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsGraphicsFence | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsAsyncGPUReadback | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsRayTracing | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsSetConstantBuffer | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: minConstantBufferOffsetAlignment | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: hasMipMaxLevel | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsMipStreaming | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsPixelFillrate | -1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: usesLoadStoreActions | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsStoreAndResolveAction | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsVertexPrograms | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsGPUFence | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Setting up content readers with arena2 path 'C:\Users\Steven de Valk\Documents\HeRrE cOmE tHe CrImSoN cHiN\Projects\Daggerfall Unity\0.16.2\64bit\DaggerfallGameFiles\arena2'. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TextManager enumerating text databases. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TextManager read text database table DialogShortcuts with 239 rows 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TextManager read text database table GameSettings with 212 rows 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TextManager read text database table MainMenu with 46 rows 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TextManager read text database table ModSystem with 61 rows 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Using default SoundFont TimGM6mb.sf2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 7)
+UnloadTime: 2.568000 ms
+DFTFU 1.9.2: Found valid arena2 path at 'C:\Users\Steven de Valk\Documents\HeRrE cOmE tHe CrImSoN cHiN\Projects\Daggerfall Unity\0.16.2\64bit\DaggerfallGameFiles\arena2'. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: PersistentDataPath | C:/Users/Steven de Valk/AppData/LocalLow/Daggerfall Workshop/Daggerfall Unity 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DistributionSuffix |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MyDaggerfallPath | C:\Users\Steven de Valk\Documents\HeRrE cOmE tHe CrImSoN cHiN\Projects\Daggerfall Unity\0.16.2\64bit\DaggerfallGameFiles 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MyDaggerfallUnitySavePath |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MyDaggerfallUnityScreenshotsPath |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ResolutionWidth | 1920 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ResolutionHeight | 1080 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: RetroRenderingMode | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: PostProcessingInRetroMode | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: UseMipMapsInRetroMode | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: RetroModeAspectCorrection | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: PalettizationLUTShift | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VSync | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TargetFrameRate | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Fullscreen | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ExclusiveFullscreen | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: FieldOfView | 65 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ShadowResolutionMode | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MainFilterMode | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: QualityLevel | 5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DungeonLightShadows | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InteriorLightShadows | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ExteriorLightShadows | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientLitInteriors | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MobileNPCShadows | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: GeneralBillboardShadows | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: NatureBillboardShadows | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DungeonShadowDistance | 20 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InteriorShadowDistance | 30 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ExteriorShadowDistance | 90 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableTextureArrays | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: RandomDungeonTextures | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CursorWidth | 32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CursorHeight | 32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AntialiasingMethod | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AntialiasingFXAAFastMode | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AntialiasingSMAAQuality | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AntialiasingTAASharpness | 0.3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientOcclusionEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientOcclusionMethod | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientOcclusionIntensity | 1.2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientOcclusionThickness | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientOcclusionRadius | 0.4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AmbientOcclusionQuality | 2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BloomEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BloomIntensity | 5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BloomThreshold | 0.7 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BloomDiffusion | 6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BloomFastMode | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MotionBlurEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MotionBlurShutterAngle | 270 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MotionBlurSampleCount | 8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VignetteEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VignetteIntensity | 0.6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VignetteSmoothness | 0.3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VignetteRoundness | 0.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VignetteRounded | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DepthOfFieldEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DepthOfFieldFocusDistance | 3.8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DepthOfFieldAperture | 5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DepthOfFieldFocalLength | 50 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DepthOfFieldMaxBlurSize | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DitherEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostEnable | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostRadius | 25 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostIntensity | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostDungeonScale | 1.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostExteriorScale | 0.2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostInteriorScale | 0.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ColorBoostDungeonFalloff | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SoundFont |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AlternateMusic | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: PlayerNudity | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ShowOptionsAtStart | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: GUIFilterMode | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: VideoFilterMode | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Crosshair | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InteractionModeIcon | classic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SwapHealthAndFatigueColors | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DimAlphaStrength | 0.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableToolTips | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ToolTipDelayInSeconds | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ToolTipBackgroundColor | RGBA(64, 64, 64, 210) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ToolTipTextColor | RGBA(230, 230, 200, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ShopQualityPresentation | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ShopQualityHUDDelay | 4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ShowQuestJournalClocksAsCountdown | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableInventoryInfoPanel | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableEnhancedItemLists | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableModernConversationStyleInTalkWindow | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: IconsPositioningScheme | Classic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: HelmAndShieldMaterialDisplay | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AccelerateUICopyTexture | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableVitalsIndicators | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SDFFontRendering | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableGeographicBackgrounds | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableArrowCounter | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DungeonExitWagonPrompt | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TravelMapLocationsOutline | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: IllegalRestWarning | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LargeHUD | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LargeHUDDocked | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LargeHUDUndockedScale | 0.75 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LargeHUDUndockedAlignment | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LargeHUDUndockedOffsetWeapon | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LargeHUDOffsetHorse | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CanDropQuestItems | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: RunInBackground | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableQuestDebugger | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: QuestRumorWeight | 50 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DisableEnemyDeathAlert | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: HideLoginName | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableSpellLighting | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableSpellShadows | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InvertMouseVertical | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MouseLookSmoothingFactor | 0.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MouseLookSensitivity | 2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: JoystickLookSensitivity | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: JoystickCursorSensitivity | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: JoystickMovementThreshold | 0.9 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: JoystickDeadzone | 0.1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnableController | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: HeadBobbing | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Handedness | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: WeaponAttackThreshold | 0.005 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MovementAcceleration | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ToggleSneak | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: WeaponSwingMode | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CameraRecoilStrength | 3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: MusicVolume | 0.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SoundVolume | 0.5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InstantRepairs | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AllowMagicRepairs | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BowDrawback | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapNumberOfDungeons | 5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapDisableMicroMap | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapRememberSliceLevel | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapAlwaysMaxOutSliceLevel | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ExteriorMapDefaultZoomLevel | 8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ExteriorMapResetZoomLevelOnNewLocation | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapTempleColor | RGBA(69, 125, 195, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapShopColor | RGBA(190, 85, 24, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapTavernColor | RGBA(85, 117, 48, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AutomapHouseColor | RGBA(69, 60, 40, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DungeonMicMapQoL | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DunMicMapInnerColor | RGBA(212, 135, 208, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DunMicMapBorderColor | RGBA(250, 180, 3, 255) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: StartCellX | 109 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: StartCellY | 158 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: StartInDungeon | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TerrainDistance | 3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TerrainHeightmapPixelError | 5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SmallerDungeons | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AssetCacheThreshold | 25 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LypyL_GameConsole | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LypyL_ModSystem | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AssetInjection | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CompressModdedTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: NearDeathWarning | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AlternateRandomEnemySelection | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: AdvancedClimbing | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DungeonAmbientLightScale | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: NightAmbientLightScale | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: PlayerTorchLightScale | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: PlayerTorchFromItems | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CombatVoices | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnemyInfighting | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnhancedCombatAI | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: GuildQuestListBox | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: BowLeftHandWithSwitching | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LoiterLimitInHours | 3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CommandLine | "C:\Users\Steven de Valk\Documents\HeRrE cOmE tHe CrImSoN cHiN\Projects\Daggerfall Unity\0.16.2\64bit\DaggerfallUnity.exe" 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CurrentDirectory | C:\Users\Steven de Valk\Documents\HeRrE cOmE tHe CrImSoN cHiN\Projects\Daggerfall Unity\0.16.2\64bit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CurrentManagedThreadId | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ExitCode | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: HasShutdownStarted | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: NewLine | 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: OSVersion | Microsoft Windows NT 10.0.19045.0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SystemDirectory | C:\Windows\system32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TickCount | 408564265 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: UserInteractive | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Version | 4.0.30319.42000 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: WorkingSet | 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Is64BitOperatingSystem | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: SystemPageSize | 4096 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Is64BitProcess | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ProcessorCount | 8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InvariantCulture |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CurrentCulture | en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CurrentUICulture | en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CultureTypes | AllCultures 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: IetfLanguageTag | en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: KeyboardLayoutId | 2057 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: LCID | 2057 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Name | en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: NativeName | English (United Kingdom) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Calendar | System.Globalization.GregorianCalendar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: OptionalCalendars | System.Globalization.Calendar[] 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Parent | en 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TextInfo | TextInfo - en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ThreeLetterISOLanguageName | eng 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: ThreeLetterWindowsLanguageName | ENG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: TwoLetterISOLanguageName | en 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: UseUserOverride | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: CompareInfo | CompareInfo - en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: IsNeutralCulture | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: NumberFormat | System.Globalization.NumberFormatInfo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DateTimeFormat | System.Globalization.DateTimeFormatInfo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DisplayName | English (United Kingdom) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: EnglishName | English (United Kingdom) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: InstalledUICulture | en-GB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: IsReadOnly | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DefaultThreadCurrentCulture |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: DefaultThreadCurrentUICulture |  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: batteryLevel | 0.96 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: batteryStatus | Charging 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: operatingSystem | Windows 10  (10.0.19045) 64bit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: operatingSystemFamily | Windows 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: processorType | Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: processorFrequency | 2808 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: processorCount | 8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: systemMemorySize | 16304 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: deviceModel | GP62M 7RDX (Micro-Star International Co., Ltd.) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsAccelerometer | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsGyroscope | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsLocationService | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsVibration | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsAudio | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: deviceType | Desktop 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsMemorySize | 1979 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsDeviceName | NVIDIA GeForce GTX 1050 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsDeviceVendor | NVIDIA 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsDeviceID | 7309 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsDeviceVendorID | 4318 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsDeviceType | Direct3D11 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsUVStartsAtTop | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsDeviceVersion | Direct3D 11.0 [level 11.1] 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsShaderLevel | 50 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsMultiThreaded | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: renderingThreadingMode | MultiThreaded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: hasHiddenSurfaceRemovalOnGPU | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: hasDynamicUniformArrayIndexingInFragmentShaders | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsShadows | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsRawShadowDepthSampling | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsRenderTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsMotionVectors | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsRenderToCubemap | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsImageEffects | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supports3DTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supports2DArrayTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supports3DRenderTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsCubemapArrayTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: copyTextureSupport | Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsComputeShaders | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsGeometryShaders | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsTessellationShaders | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsInstancing | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsHardwareQuadTopology | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supports32bitsIndexBuffer | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsSparseTextures | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportedRenderTargetCount | 8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsSeparatedRenderTargetsBlend | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportedRandomWriteTargetCount | 8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsMultisampledTextures | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsMultisampleAutoResolve | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsTextureWrapMirrorOnce | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: usesReversedZBuffer | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsStencil | 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: npotSupport | Full 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxTextureSize | 16384 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxCubemapSize | 16384 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeBufferInputsVertex | 128 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeBufferInputsFragment | 128 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeBufferInputsGeometry | 128 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeBufferInputsDomain | 128 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeBufferInputsHull | 128 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeBufferInputsCompute | 32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeWorkGroupSize | 1024 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeWorkGroupSizeX | 1024 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeWorkGroupSizeY | 1024 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: maxComputeWorkGroupSizeZ | 64 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsAsyncCompute | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsGraphicsFence | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsAsyncGPUReadback | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsRayTracing | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsSetConstantBuffer | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: minConstantBufferOffsetAlignment | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: hasMipMaxLevel | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsMipStreaming | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: graphicsPixelFillrate | -1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: usesLoadStoreActions | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsStoreAndResolveAction | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsVertexPrograms | True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: supportsGPUFence | False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Setting up content readers with arena2 path 'C:\Users\Steven de Valk\Documents\HeRrE cOmE tHe CrImSoN cHiN\Projects\Daggerfall Unity\0.16.2\64bit\DaggerfallGameFiles\arena2'. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TextManager enumerating text databases. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TextManager read text database table DialogShortcuts with 239 rows 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TextManager read text database table GameSettings with 212 rows 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TextManager read text database table MainMenu with 46 rows 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TextManager read text database table ModSystem with 61 rows 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+
+Unloading 185 unused Assets to reduce memory usage. Loaded Objects now: 2666.
+Total: 17.658800 ms (FindLiveObjects: 0.195000 ms CreateObjectMapping: 0.079700 ms MarkObjects: 17.062000 ms  DeleteObjects: 0.321400 ms)
+
+Using default SoundFont TimGM6mb.sf2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Using default SoundFont TimGM6mb.sf2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Using path 'C:/Users/Steven de Valk/AppData/LocalLow/Daggerfall Workshop/Daggerfall Unity\Saves' for Unity saves. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'ElementalResistance-Fire' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'ElementalResistance-Fire' recipe 0 [key=111516185] ingredients: Amber, Red Flowers, Cactus, Fairy Dragon's Scales, Ichor. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'ElementalResistance-Frost' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'ElementalResistance-Frost' recipe 0 [key=4826108] ingredients: Turquoise, Pine Branch, White Rose, Ichor. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'ElementalResistance-Poison' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'ElementalResistance-Poison' recipe 0 [key=221117] ingredients: Golden Poppy, Snake Venom, Ichor. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'ElementalResistance-Shock' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'ElementalResistance-Shock' recipe 0 [key=216843] ingredients: Red Berries, Ichor, Lodestone. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'Slowfall' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Slowfall' recipe 0 [key=220192] ingredients: Black Poppy, White Poppy, Pure Water. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'WaterBreathing' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'WaterBreathing' recipe 0 [key=240081] ingredients: Rain Water, Elixir Vitae, Ivory. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'Chameleon-Normal' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Chameleon-Normal' recipe 0 [key=112080144] ingredients: Green Leaves, Yellow Flowers, Red Berries, Rain Water, Nectar. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'Invisibility-Normal' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Invisibility-Normal' recipe 0 [key=4815872] ingredients: Diamond, Ectoplasm, Rain Water, Nectar. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'Shadow-Normal' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Shadow-Normal' recipe 0 [key=4842851] ingredients: Malachite, Black Rose, Rain Water, Nectar. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'Cure-Disease' has 2 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Cure-Disease' recipe 0 [key=224588] ingredients: Fig, Big Tooth, Elixir Vitae. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Cure-Disease' recipe 1 [key=2031019196] ingredients: Diamond, Fig, Ectoplasm, Mummy Wrappings, Big Tooth, Rain Water, Elixir Vitae, Nectar. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'Cure-Poison' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Cure-Poison' recipe 0 [key=5361377] ingredients: Giant Scorpion Stinger, Small Tooth, Ichor, Pearl. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'Fortify-Strength' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Fortify-Strength' recipe 0 [key=239524] ingredients: Pure Water, Orc's Blood, Iron. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'FreeAction' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'FreeAction' recipe 0 [key=4870452] ingredients: Twigs, Bamboo, Spider's Venom, Ichor. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'Heal-Fatigue' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Heal-Fatigue' recipe 0 [key=221871] ingredients: Ginkgo Leaves, Aloe, Pure Water. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'Heal-Health' has 2 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Heal-Health' recipe 0 [key=4975678] ingredients: Red Berries, Troll's Blood, Elixir Vitae, Mercury. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Heal-Health' recipe 1 [key=4937012] ingredients: Pine Branch, Red Berries, Unicorn Horn, Elixir Vitae. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'Heal-SpellPoints' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Heal-SpellPoints' recipe 0 [key=5188896] ingredients: Werewolf's Blood, Saint's Hair, Nectar, Silver. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'Levitate' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'Levitate' recipe 0 [key=228890] ingredients: Ectoplasm, Pure Water, Nectar. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Effect 'WaterWalking' has 1 potion recipes: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+'WaterWalking' recipe 0 [key=5017404] ingredients: Yellow Rose, Palm, Pure Water, Sulphur. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Using default SoundFont TimGM6mb.sf2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Welcome to Daggerfall Unity 0.16.2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Populated work available from NPCs. (allocated+noBuilding/candidates) Merchants: 0(+0)/0, Commoners: 0(+0)/0, Nobles: 0(+0)/0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Clearing scene cache. start=False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: scene index = 1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+removing mod at index: 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ModManager - started loading mod: Classes Redone 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ModManager - started loading mod: Classes Expanded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ModManager - init finished.  Mod Count: 2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+No mod loaders found for mod: Classes Redone 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+No mod loaders found for mod: Classes Expanded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+HUD pushed to stack. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: GameManager ready. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 6)
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 2991.
+Total: 40.482600 ms (FindLiveObjects: 0.422700 ms CreateObjectMapping: 0.438400 ms MarkObjects: 39.468100 ms  DeleteObjects: 0.153000 ms)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Adding bundle [] -141300736 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+DFTFU 1.9.2: Duplicate LoadID 29550096 detected for ActionObject object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29550025 detected for ActionObject object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29554508 detected for ActionObject object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29554366 detected for ActionObject object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29554318 detected for ActionObject object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29554282 detected for LootContainer object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29556309 detected for LootContainer object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29554906 detected for LootContainer object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29555553 detected for LootContainer object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29554138 detected for LootContainer object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29550213 detected for LootContainer object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29550177 detected for LootContainer object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29556237 detected for LootContainer object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Duplicate LoadID 29541803 detected for ActionObject object. This object will not be serialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Clearing scene cache. start=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PersistentFactionData.Reset() loaded fresh faction data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DFTFU 1.9.2: Assigned character Kelkemmellon Adian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CreateCharBiography: Detected biography text command. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IndexOutOfRangeException: Index was outside the bounds of the array.
+  at DaggerfallWorkshop.Game.Items.ItemHelper.AssignStartingGear (DaggerfallWorkshop.Game.Entity.PlayerEntity playerEntity, DaggerfallWorkshop.Game.Player.CharacterDocument characterDocument) [0x000e9] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.StartNewCharacter () [0x00196] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.InvokeStartMethod () [0x00051] in <bda829999060483ca070560c4f4d3556>:0 
+  at DaggerfallWorkshop.Game.Utility.StartGameBehaviour.Update () [0x00014] in <bda829999060483ca070560c4f4d3556>:0 
+ 
+(Filename: <bda829999060483ca070560c4f4d3556> Line: 0)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2ad0 -> priority: 1 
+  Thread -> id: 1f84 -> priority: 1 
+  Thread -> id: 658 -> priority: 1 
+  Thread -> id: 3294 -> priority: 1 
